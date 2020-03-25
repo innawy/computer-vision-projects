@@ -1,7 +1,7 @@
 # Projects in Computer Vision
 
 1. Create hybrid images
-Image filtering functions based on a simplified version of 2006 paper by Oliva, Torralba, and Schyns. 
+*Image filtering functions based on a simplified version of 2006 paper by Oliva, Torralba, and Schyns. 
 
 2. Feature detection, description, and matching
 robustly compare images with differences in position, orientation, and illumination.
