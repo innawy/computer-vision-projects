@@ -11,3 +11,4 @@
 - Matching: SSD (Sum of squared differences), ratio test
 
 ### Autostitch - Panoramas
+- Implement a system to combine a series of horizontally overlapping photographs into a single panoramic image.
